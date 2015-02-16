@@ -14,8 +14,7 @@ export GIT_PS1_SHOWDIRTYSTATE=1
 # '\$(__git_ps1)' adds git-related stuff
 # '\W' adds the name of the current directory
 export PS1="$purple\u$green\$(__git_ps1)$blue \W $ $reset"
-source /opt/ros/indigo/setup.bash
-source ~/catkin_ws/devel/setup.bash
+
 alias ls="ls --color=auto"
 alias ll="ls -al --color=auto"
 export EDITOR='gedit'
