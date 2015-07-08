@@ -17,4 +17,3 @@ export PS1="$purple\u$green\$(__git_ps1)$blue \W $ $reset"
 
 alias ls="ls --color=auto"
 alias ll="ls -al --color=auto"
-export EDITOR='gedit'
