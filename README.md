@@ -12,3 +12,5 @@
       git clone https://github.com/jeffsanc/git.git
       cd git
       sudo bash ./install
+
+### Acknoledgement: Chen Chun-lin
