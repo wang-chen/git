@@ -7,10 +7,9 @@
   
   Persistent names for ftdi-usb-serial devices
   
-  
 # To install it, run:
-      git clone https://github.com/jeffsanc/git.git
-      cd git
+      git clone https://github.com/jeffsanc/auto.git
+      cd auto
       sudo bash ./install
 
 ### Acknoledgement: Chen Chun-lin
