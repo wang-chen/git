@@ -1,5 +1,6 @@
 # git
-## This repo is for auto user configuration include:
+## Author: Jeffsan Chen Wang <jeffsan.wang@gmail.com>
+## This repo is for auto user configuration, including:
   ROS indigo environment
   
   GIT bash environment
