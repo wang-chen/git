@@ -1,3 +1,6 @@
+
+# Add from https://github.com/jeffsanc/git.git
+
 # Enable tab completion
 source ~/git-completion.bash
 
