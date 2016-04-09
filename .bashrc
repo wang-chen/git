@@ -1,5 +1,5 @@
 
-# Add from https://github.com/jeffsanc/git.git
+# Add from https://github.com/jeffsanc/auto.git
 
 # Enable tab completion
 source ~/git-completion.bash
