@@ -5,7 +5,7 @@
   
   GIT bash environment
   
-  Persistent names for ftdi-usb-serial devices. After installation, any FTDI-based usd devices will appear in /dev/sensors/ftdi_[****]. The "****" will be replaced by the uqiue serial NO. of chips and its authority will be [666].
+  Persistent names for ftdi-usb-serial devices. After installation, any FTDI-based usb devices will appear in /dev/sensors/ftdi_[\*\*\*\*] with authority level [666]. The [\*\*\*\*] will be replaced by the uqiue serial NO. of chips.
   
 # To install it, run:
       git clone https://github.com/jeffsanc/auto.git
