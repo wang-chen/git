@@ -20,4 +20,6 @@ export PS1="$purple\u$green\$(__git_ps1)$blue \W $ $reset"
 
 alias ls="ls --color=auto"
 alias ll="ls -al --color=auto"
+alias ck="cd ~/drones && catkin_make"
+alias CK="cd ~/drones && catkin_make"
 source ~/myros.sh
