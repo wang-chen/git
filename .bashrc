@@ -1,9 +1,9 @@
 
+#<--------------------------
+#<--------------------------
 # Add from https://github.com/jeffsanc/auto.git
-
 # Enable tab completion
 source ~/git-completion.bash
-
 # colors!
 green="\[\033[0;32m\]"
 blue="\[\033[0;34m\]"
@@ -23,3 +23,6 @@ alias ll="ls -al --color=auto"
 alias ck="source ck.sh"
 alias CK="source ck.sh"
 source ~/myros.sh
+#--------------------------->
+#--------------------------->
+
