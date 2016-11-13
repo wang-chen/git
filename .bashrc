@@ -20,6 +20,6 @@ export PS1="$purple\u$green\$(__git_ps1)$blue \W $ $reset"
 
 alias ls="ls --color=auto"
 alias ll="ls -al --color=auto"
-alias ck="CUR_FOLDER=$(pwd); cd ~/drones && catkin_make; cd $CUR_FOLDER"
-alias CK="CUR_FOLDER=$(pwd); cd ~/drones && catkin_make; cd $CUR_FOLDER"
+alias ck="source ck.sh"
+alias CK="source ck.sh"
 source ~/myros.sh
