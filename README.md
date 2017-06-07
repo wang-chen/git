@@ -1,6 +1,6 @@
 # auto
 ## Author
-  Jeffsan Chen Wang <jeffsan.wang@gmail.com>
+  Wang Chen <wang.chen@zoho.com>
 
 ## Usage
 
