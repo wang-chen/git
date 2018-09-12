@@ -7,6 +7,6 @@
   
 # To install it, run:
       cd ~
-      git clone https://github.com/jeffsanc/auto.git
-      cd auto
+      git clone https://github.com/wang-chen/git.git
+      cd git
       ./install.sh
