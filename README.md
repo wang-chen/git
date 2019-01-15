@@ -1,9 +1,17 @@
 # GIT
-## Author
-  Wang Chen <wang.chen@zoho.com>
 
-## GIT bash environment
-  your git command environment will be very user-friendly.
+  A repo to make git bash environment user-friendly.
+## Author
+   [Chen Wang](https://wang-chen.github.io)
+  
+  
+## To install it, run:
+      cd ~
+      git clone https://github.com/wang-chen/git.git
+      cd git
+      ./install.sh
+
+## What you get:
   
   1, The command enviorment will be short.
   
@@ -22,15 +30,9 @@
   5, Checkout back to master branch:
   
    ![Alt text](img/back.png?raw=true "Title")
-
-  
-# To install it, run:
-      cd ~
-      git clone https://github.com/wang-chen/git.git
-      cd git
-      ./install.sh
+ 
       
-# To uninstall it:
+## To uninstall it:
 
    Simply delete the following lines, located at the end of the file '.bashrc' in your home folder.
 
@@ -59,7 +61,7 @@
       #--------------------------->
       
       
-  # Acknoledgement:
+  ## Acknoledgement:
   
     Udacity
      
