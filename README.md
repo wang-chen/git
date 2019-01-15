@@ -10,7 +10,7 @@
       cd ~
       git clone https://github.com/wang-chen/git.git
       cd git
-      ./install.sh
+      ./install.sh && bash
 
 ## What you get:
   
