@@ -1,6 +1,7 @@
 # GIT
 
   A repo to make git bash environment user-friendly.
+
 ## Author
    [Chen Wang](https://wang-chen.github.io)
   
@@ -23,13 +24,16 @@
   
    ![Alt text](img/branch.png?raw=true "Title")
    
-  4, When you change something and add it to your git repo:
+  4, When changing something, it will show "*"; when adding it to your repo, it will show "+":
   
    ![Alt text](img/change.png?raw=true "Title")
    
   5, Checkout back to master branch:
   
    ![Alt text](img/back.png?raw=true "Title")
+   
+   
+  6, Note: It doesn't replace your git, it shows where you are when you use git.
  
       
 ## To uninstall it:
