@@ -33,7 +33,12 @@
    ![Alt text](img/back.png?raw=true "Title")
    
    
-  6, Note: It doesn't replace your git, it shows where you are when you use git.
+  6, Note: It doesn't replace your git, it only shows where you are when you use git.
+  
+  7, If you want to know your current folder path, run:
+        
+    pwd
+  
  
       
 ## To uninstall it:
