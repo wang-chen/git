@@ -26,7 +26,7 @@
    
           export BASH_SILENCE_DEPRECATION_WARNING=1
           
-   2.3, For earlier MacOS version, skip this step.
+   For earlier MacOS version, skip this step.
   
 3. Run 
    
