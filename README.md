@@ -6,23 +6,26 @@
    [Chen Wang](https://wang-chen.github.io)
   
   
-## To install it, run:
+## Installation
+### Linux
+    
       cd ~
       git clone https://github.com/wang-chen/git.git
       cd git
       ./install.sh && bash
-## Platform
-### Linux
-    
-   You may install directly.
     
 ### MacOS
+   1. Create a file ".bash_profile" in your home folder, if there is one already, skip this step.
     
-   MacOS Catalina and after: You need to change to bash shell following [this link](https://support.apple.com/en-us/HT208050).
-
-   Earlier version: install directly.
-  
-
+   2. For MacOS Catalina and after: You first need to change to bash shell following [this link](https://support.apple.com/en-us/HT208050).  Remember to add the following line to your ".bash_profile". For earlier MacOS version, skip this step.
+   
+          export BASH_SILENCE_DEPRECATION_WARNING=1
+   
+   2. Copy the contents from ".bashrc" to your ".bash_profile".
+   
+   3. Copy the file ".git-completion.bash" and ".git-prompt.sh" to your home folder.
+   
+   4. Open a new terminal. Done!
 
 ## What you get:
   
