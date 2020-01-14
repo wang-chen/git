@@ -20,7 +20,7 @@
     
 2. For MacOS Catalina and after:
    
-   2.1, Change your default shell to "bash" following [this link](https://support.apple.com/en-us/HT208050).        
+   2.1, Change your default shell from "/bin/zsh" to "/bin/bash" following [this link](https://support.apple.com/en-us/HT208050).
    
    2.2, Add the following line to your ".bash_profile". 
    
