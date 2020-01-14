@@ -11,10 +11,22 @@
       git clone https://github.com/wang-chen/git.git
       cd git
       ./install.sh && bash
+## Platform
+### Linux
+    
+   You may install directly.
+    
+### MacOS
+    
+   MacOS Catalina and after: You need to change to bash shell following [this link](https://support.apple.com/en-us/HT208050).
+
+   Earlier version: install directly.
+  
+
 
 ## What you get:
   
-  1, The command enviorment will be short.
+  1, Command auto completion and its enviorment will be short.
   
   2, When you change directory to a git repo, it will show your current branch.
   
@@ -64,8 +76,8 @@
       # '\W' adds the name of the current directory
       export PS1="$purple\u$green\$(__git_ps1)$blue \W $ $reset"
 
-      alias ls="ls --color=auto"
-      alias ll="ls -al --color=auto"
+      alias ls="ls -G"
+      alias ll="ls -al -G"
       #--------------------------->
       #--------------------------->
       
