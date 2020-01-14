@@ -58,7 +58,7 @@
       
 ## To uninstall it:
 
-   Simply delete the following lines, located at the end of the file '.bashrc' in your home folder.
+   Simply delete the following lines, located at the end of the file '.bashrc' or ".bash_profile" in your home folder.
 
       #<--------------------------
       #<--------------------------
