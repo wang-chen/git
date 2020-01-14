@@ -16,20 +16,26 @@
       ./install.sh && bash
     
 ### MacOS
-   1. Create a file ".bash_profile" in your home folder, if there is one already, skip this step.
+1. Create a file ".bash_profile" in your home folder, if there is one already, skip this step.
     
-   2. For MacOS Catalina and after: You first need to change your default shell to "bash" following [this link](https://support.apple.com/en-us/HT208050).  Remember to add the following line to your ".bash_profile". For earlier MacOS version, skip this step.
+2. For MacOS Catalina and after:
+   
+   2.1, Change your default shell to "bash" following [this link](https://support.apple.com/en-us/HT208050).        
+   
+   2.2, Add the following line to your ".bash_profile". 
    
           export BASH_SILENCE_DEPRECATION_WARNING=1
+          
+   2.3, For earlier MacOS version, skip this step.
   
-   2. Run 
+3. Run 
    
-          cd ~
-          git clone https://github.com/wang-chen/git.git
-          cd git
-          cp .git-prompt.sh ~/
-          cp .git-completion.bash ~/
-          cat ./.bashrc >> ~/.profile
+        cd ~
+        git clone https://github.com/wang-chen/git.git
+        cd git
+        cp .git-prompt.sh ~/
+        cp .git-completion.bash ~/
+        cat ./.bashrc >> ~/.bash_profile
 
 ## What you get:
   
