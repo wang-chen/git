@@ -26,7 +26,7 @@
 
 ## What you get:
   
-  1, Command auto completion and its enviorment will be short.
+  1, Git command auto completion and its enviorment will be short.
   
   2, When you change directory to a git repo, it will show your current branch.
   
