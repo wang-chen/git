@@ -41,7 +41,7 @@
   
   1, Git command auto completion and its enviorment will be short.
     
-   The bash shell leading will be "user(branch [#*+])folder", where "#", "\*", and "+" indicate "an init repo", "repo has changes", and "changes staged, but not commited", respectively.
+   The bash shell leading will be "user (branch [#*+]) folder $", where "#", "\*", and "+" indicate "an init repo", "repo has changes", and "changes staged, but not commited", respectively.
   
   2, For example, when you change directory to a git repo, it will show your current branch.
   
