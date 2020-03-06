@@ -1,4 +1,4 @@
-# GIT
+# GIT Helper
 
   A repo to make git bash environment user-friendly.
 
@@ -18,7 +18,7 @@
 ### MacOS
 1. Create a file ".bash_profile" in your home folder, if there is one already, skip this step.
     
-2. For MacOS Catalina and after:
+2. For MacOS Catalina (MacOS 10.15) and after:
    
    2.1, Change your default shell from "/bin/zsh" to "/bin/bash" following [this link](https://support.apple.com/en-us/HT208050).
    
